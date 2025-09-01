@@ -1,4 +1,4 @@
-## Recent fun: ⚡
+## ⚡ Recent fun:
 
 - in-browser CAD https://1985-cad.vercel.app
 - cherry-picked physics simulator on topics of waves, electrostatics and circuits https://ph213.vercel.app
