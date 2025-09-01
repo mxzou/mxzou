@@ -1,4 +1,10 @@
-## Hi there 👋
+## Recent fun: ⚡
+
+- in-browser CAD https://1985-cad.vercel.app
+- cherry-picked physics simulator on topics of waves, electrostatics and circuits https://ph213.vercel.app
+- currently building breaking flashcards app!
+
+date: 09-01-25
 
 <!--
 **mxzou/mxzou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
